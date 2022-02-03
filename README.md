@@ -1,4 +1,4 @@
-Rust-Lightning
+Rust-Lightning - Subirachs
 ==============
 
 [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning)
